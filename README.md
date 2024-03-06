@@ -1,4 +1,8 @@
 # General-Practice-Workforce-Analysis-on-the-basis-of-Ethnicity-in-the-England-NHS-UK-Projects
+For blog: https://medium.com/@sarojrimal01/general-practice-workforce-analysis-on-the-basis-of-ethnicity-in-the-england-nhs-workforce-733e92f956b4
+For Tableau Dashboard: https://public.tableau.com/app/profile/saroj.rimal2887/vizzes
+
+## Background
 The United Kingdom serves as a residence for a diverse population comprising both natives and immigrants, encompassing individuals from various traditions, backgrounds, and countries. These individuals come to the UK for purposes such as employment, education, and settlement.
 
 This project endeavors to conduct a comprehensive analysis of individuals of different nationalities working within a specific sector of the NHS, namely General Practice (GP) in England. The study encompasses data from various categories of GP workers, including administrative and non-clinical staff, nurses, and all personnel directly involved in patient care. The data for this project is collected from the NHS digital (Home — NHS Digital) covering the period from September 2015 to August 2023.
