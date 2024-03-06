@@ -4,18 +4,21 @@ The United Kingdom serves as a residence for a diverse population comprising bot
 This project endeavors to conduct a comprehensive analysis of individuals of different nationalities working within a specific sector of the NHS, namely General Practice (GP) in England. The study encompasses data from various categories of GP workers, including administrative and non-clinical staff, nurses, and all personnel directly involved in patient care. The data for this project is collected from the NHS digital (Home — NHS Digital) covering the period from September 2015 to August 2023.
 ![27748101_983033995181389_8555572331049975016_o](https://github.com/sarojrimal/General-Practice-Workforce-Analysis-on-the-basis-of-Ethnicity-in-the-England-NHS-UK-Projects/assets/48502669/9125a973-bef7-4f5f-a2f3-be2a84330268)
 People from different origin working for NHS
+
 As of December 2023, the total count of GP staff across England stood at 46,983, representing various domains such as Administration, Nursing, Technical, and General Practice roles.
 
 Breakdown by ethnic background reveals that 48.33% of the total staff are of White ethnicity, 25.76% are of Asian ethnicity, 6.22% are of Black ethnicity, 2.41% are from mixed ethnic groups, and 3.77% are categorized as not recorded or belonging to other ethnic backgrounds.
 ![1](https://github.com/sarojrimal/General-Practice-Workforce-Analysis-on-the-basis-of-Ethnicity-in-the-England-NHS-UK-Projects/assets/48502669/a47a9d0e-f1fe-4818-83ae-846801b88a80)
 
 
-Ethnic Groups with Area Distribution
+## Ethnic Groups with Area Distribution
+
 In terms of geographic distribution, it is observed that General Practitioners (GPs) in the Midlands region employ a larger number of staff compared to other areas. Subsequently, our analysis will delve into the distribution of ethnic groups across various locations for further examination and discussion.
 ![GP workers with Area Distribution](https://github.com/sarojrimal/General-Practice-Workforce-Analysis-on-the-basis-of-Ethnicity-in-the-England-NHS-UK-Projects/assets/48502669/f8b75913-54df-4dc1-a22c-44600bd2be88)
 
 
-Ethnic Group variations in Midlands
+## Ethnic Group variations in Midlands
+
 Within the Midlands area, there is a notable prevalence of individuals of White and Asian ethnic backgrounds within the General Practice (GP) workforce. Additionally, a significant portion, approximately 12%, comprises individuals whose original ethnicity is not recorded. The representation of mixed ethnic groups and other ethnicities falls outside the primary focus of this analysis.
 
 
