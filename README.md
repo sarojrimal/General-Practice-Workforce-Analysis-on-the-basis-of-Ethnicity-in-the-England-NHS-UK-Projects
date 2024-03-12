@@ -10,6 +10,11 @@ This project endeavors to conduct a comprehensive analysis of individuals of dif
 ![27748101_983033995181389_8555572331049975016_o](https://github.com/sarojrimal/General-Practice-Workforce-Analysis-on-the-basis-of-Ethnicity-in-the-England-NHS-UK-Projects/assets/48502669/9125a973-bef7-4f5f-a2f3-be2a84330268)
 People from different origin working for NHS
 
+## Project Planning
+The Aims Grid is used to track progress and adapt strategies as needed throughout the project lifecycle.
+<img width="2528" alt="NHS Project Aims Grid" src="https://github.com/sarojrimal/General-Practice-Workforce-Analysis-on-the-basis-of-Ethnicity-in-the-England-NHS-UK-Projects/assets/48502669/9ac9eac8-71d8-4dad-b5b1-961ea951e3c1">
+
+
 As of December 2023, the total count of GP staff across England stood at 46,983, representing various domains such as Administration, Nursing, Technical, and General Practice roles.
 
 Breakdown by ethnic background reveals that 48.33% of the total staff are of White ethnicity, 25.76% are of Asian ethnicity, 6.22% are of Black ethnicity, 2.41% are from mixed ethnic groups, and 3.77% are categorized as not recorded or belonging to other ethnic backgrounds.
